@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiimoraes&show_icons=true&locale=en" alt="guiimoraes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guiimoraes&" alt="guiimoraes" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=guiimoraes&theme=dark&hide_border=false)<br/>
