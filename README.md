@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guiimoraes&label=Profile%20views&color=0e75b6&style=flat" alt="guiimoraes" /> </p>
 
-- 🔭 I’m currently working on **react2shell-evolved**
-
 - 🌱 I’m currently learning **TypeScript & Nuxt.js**
 
 - 💬 Ask me about **Pentest, NodeJs**
